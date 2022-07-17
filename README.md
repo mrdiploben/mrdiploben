@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on pterodactyl
 - 📫 How to reach me : https://twitter.com/mrdiploben1
 
-⛏️ Fortnite dataminer and content creator ⛏️
+⛏️ Owner of EndstoneMC ⛏️
 
 Twitter : https://twitter.com/mrdiploben1
 Twitch : https://twitch.tv/mrdiploben
