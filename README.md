@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mrdiploben
-- 👀 I’m interested in Java/Javascript.
-- 🌱 I’m currently learning more java
-- 💞️ I’m looking to collaborate on pterodactyl
-- 📫 How to reach me : https://twitter.com/mrdiploben1
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning more javascript
+- 💞️ I’m looking to collaborate on Dyno.gg
+- 📫 How to reach me : https://twitter.com/bensmatthews10
 
-⛏️ Owner of EndstoneMC ⛏️
+⛏️ Owner of RusticBot ⛏️
 
 Twitter : https://twitter.com/mrdiploben1
 Twitch : https://twitch.tv/mrdiploben
