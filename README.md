@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mrdiploben
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning more javascript
-- 💞️ I’m looking to collaborate on Dyno.gg
+- 💞️ I’m looking to collaborate on many projects 👀
 - 📫 How to reach me : https://twitter.com/bensmatthews10
 
-⛏️ Owner of RusticBot ⛏️
+⛏️ Owner of Meep-X ⛏️
 
 Twitter : https://twitter.com/mrdiploben1
 Twitch : https://twitch.tv/mrdiploben
