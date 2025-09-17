@@ -47,18 +47,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/LinoERLC/LinoBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinoERLC&repo=LinoBot&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/LinoERLC/LinoWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinoERLC&repo=LinoWeb&theme=tokyonight&hide_border=true" />
-  </a>
-</p>  
+  <img src="https://img.shields.io/badge/Repos-10-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-1200+-brightgreen?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Issues-25-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-50+-orange?style=for-the-badge&logo=github" />
+</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrdiploben&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrdiploben&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>  
 
 ---
 
