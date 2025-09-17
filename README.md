@@ -48,11 +48,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-10-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Commits-1200+-brightgreen?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Issues-25-yellow?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-50+-orange?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrdiploben&show_icons=true&theme=transparent" alt="Mrdiploben's GitHub stats" />
 </p>
+
 
 
 ---
