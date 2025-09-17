@@ -47,12 +47,17 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?mrdiploben=mrdiploben&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdiploben&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+  <a href="https://github.com/LinoERLC/LinoBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinoERLC&repo=LinoBot&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/LinoERLC/LinoWeb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinoERLC&repo=LinoWeb&theme=tokyonight&hide_border=true" />
+  </a>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdiploben&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrdiploben&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrdiploben&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
 </p>  
 
 ---
