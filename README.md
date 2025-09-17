@@ -35,12 +35,13 @@
 
 <p align="center">
   <a href="https://github.com/LinoERLC/LinoBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinoERLC&repo=LinoBot&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/LinoBot-Discord%20Bot-blue?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/LinoERLC/LinoWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LinoERLC&repo=LinoWeb&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/LinoWeb-Dashboard%20%2B%20Lino+-purple?style=for-the-badge&logo=php&logoColor=white" />
   </a>
-</p>  
+</p>
+
 
 ---
 
